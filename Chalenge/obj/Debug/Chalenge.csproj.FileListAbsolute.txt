@@ -1,0 +1,10 @@
+C:\Users\JASON\source\repos\Chalenge\bin\Debug\Chalenge.exe.config
+C:\Users\JASON\source\repos\Chalenge\bin\Debug\Chalenge.exe
+C:\Users\JASON\source\repos\Chalenge\bin\Debug\Chalenge.pdb
+C:\Users\JASON\source\repos\Chalenge\obj\Debug\Chalenge.csprojAssemblyReference.cache
+C:\Users\JASON\source\repos\Chalenge\obj\Debug\Chalenge.Form1.resources
+C:\Users\JASON\source\repos\Chalenge\obj\Debug\Chalenge.Properties.Resources.resources
+C:\Users\JASON\source\repos\Chalenge\obj\Debug\Chalenge.csproj.GenerateResource.cache
+C:\Users\JASON\source\repos\Chalenge\obj\Debug\Chalenge.csproj.CoreCompileInputs.cache
+C:\Users\JASON\source\repos\Chalenge\obj\Debug\Chalenge.exe
+C:\Users\JASON\source\repos\Chalenge\obj\Debug\Chalenge.pdb
